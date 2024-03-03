@@ -1,4 +1,4 @@
-# ThreadTrack_Backend
+
 # ThreadTrack 
 
 **ThreadTrack** is a comprehensive cloth inventory management system built on the MERN stack. It features an intuitive admin dashboard that provides insightful charts and graphical representations of your inventory data. With ThreadTrack, admins can effortlessly add new products, delete outdated items, process orders efficiently, and keep track of transactions seamlessly. It's the ultimate tool for managing your cloth inventory with ease and precision.
